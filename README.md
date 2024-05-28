@@ -66,4 +66,4 @@ Upon launching the Bank-ATM Management System, users can perform the following t
 This project was developed by Shrikar Gaikar.
 
 ## License 📄
-This project is licensed under the [License Name].
+
