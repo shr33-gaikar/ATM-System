@@ -63,7 +63,7 @@ Upon launching the Bank-ATM Management System, users can perform the following t
 ```
 
 ## Author 👤
-This project was developed by Shrikar Gaikar.
+This project was developed by [Shr33 Gaikar](https://github.com/shr33-gaikar).
 
 ## License 📄
 
